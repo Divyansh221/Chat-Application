@@ -323,5 +323,5 @@ app = Window(root)
 checkbox = Checkbutton(root, text = "Keep me logged in", font = ("Times", 15))      # Creating a checkbutton showing "Keep me logged in"
 checkbox.grid(row = 0, column = 4, padx = 25, sticky = E)       # Placing the widget in the respective frame (2-D table type)
 
-# show window
+# show window 
 root.mainloop()
