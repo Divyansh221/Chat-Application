@@ -15,6 +15,13 @@ Like in a social network, posts of users can be to a contact or a group. All pos
 Since it is a extremely scaled down version of real social network application, all messages are stored in a file names social_network.txt.
 This is to be operated on same system, (in-place social network application).
 
+![WhatsApp Image 2021-07-14 at 14 57 46 (1)](https://user-images.githubusercontent.com/53087905/125599587-6a2005e3-8576-4845-bfbd-2d920ab61308.jpeg)
+
+![WhatsApp Image 2021-07-14 at 14 57 46](https://user-images.githubusercontent.com/53087905/125599621-f6883e81-7a55-433a-870b-368373a234df.jpeg)
+
+![WhatsApp Image 2021-07-14 at 14 57 46 (2)](https://user-images.githubusercontent.com/53087905/125599631-a2d352f7-2972-4d2b-8d77-dd5f9a50f2b9.jpeg)
+
+
 Format of social_network.txt : 
 
 # users
