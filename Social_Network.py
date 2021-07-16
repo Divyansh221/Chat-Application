@@ -1,7 +1,6 @@
 # 19CS10027
 # Divyansh Bhatia
-# SE Lab Assignment 03
-# Python and GUI assignment
+# Chat Application
 
 # Imports each and every method and class of module tkinter and tkinter.ttk
 
