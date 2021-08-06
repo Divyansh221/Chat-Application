@@ -12,7 +12,7 @@ Description :
 
 Like in a social network, posts of users can be to a contact or a group. All posts to a group appear in the incoming messages list for all members of the group. All direct posts from a contact also appear as incoming messages.
 
-Since it is a extremely scaled down version of real Chat applications, all messages are stored in a file names social_network.txt.
+Since it is a extremely scaled down version of real Chat applications, all messages are stored in a file names messages.txt.
 This is to be operated on same system, (in-place chat application).
 
 ![WhatsApp Image 2021-07-14 at 14 57 46 (1)](https://user-images.githubusercontent.com/53087905/125599587-6a2005e3-8576-4845-bfbd-2d920ab61308.jpeg)
